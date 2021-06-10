@@ -1,1 +1,2 @@
-Some basc tools for channel codes.
+# readme
+Some basic tools for channel codes.

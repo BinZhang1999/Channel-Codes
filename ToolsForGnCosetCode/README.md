@@ -1,0 +1,3 @@
+# ToolsForGnCosetCode
+Some tools for Gn-Coset codes.
+Note that Gn-Coset include RM codes, polar codes, eBCH codes...
